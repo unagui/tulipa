@@ -5,3 +5,4 @@ terceira linha
 alterou aruivo diferentes teste ana.
 ben alterou mesmo arquivo em partes diferentes de linha
 ben alterou mesma linha que ana
+ana alterando tudo

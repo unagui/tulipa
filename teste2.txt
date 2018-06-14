@@ -1,4 +1,6 @@
  teste2 linha1
  teste2 linha2
  teste2 linha3
- ben alterou esse tbem
+ ben consertou bug do stash
+ teste2 linha4
+  ben alterou esse tbem
