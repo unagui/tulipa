@@ -4,3 +4,4 @@
  teste2 linha4
  Ben alterou mesma linha q ana
  ana alterou mesma linha q ben
+ ana vai usar o stash
