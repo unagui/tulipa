@@ -1,9 +1,3 @@
-testando esse tbem
-ana altera mesmo arquivo em outro local
-ana alterou esse arquivo
-
-aqui e o Ben
-
-ben altera mesmo arquivo  tbem
-
-90
+primeira linha
+segunda linha
+terceira linha
