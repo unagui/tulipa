@@ -1,4 +1,5 @@
-linha do arquivo 1
-linha do arquivo 2
-linha do arquivo 3
-linha do arquivo 4
+
+ teste2 linha1
+ teste2 linha2
+ teste2 linha3
+ linha fix-bug 70
