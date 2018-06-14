@@ -1,9 +1,4 @@
-Alterei a primeira linha em fix-bug-80
-
-aqui é a ana alterando de novo
-aqui é a ana alterando de novo
-
-bug 10
-
-
-pppp
+linha do arquivo 1
+linha do arquivo 2
+linha do arquivo 3
+linha do arquivo 4
