@@ -2,3 +2,4 @@ primeira linha
 segunda linha
 terceira linha
 alterou aruivo diferentes teste ana.
+ben alterou mesmo arquivo em partes diferentes de linha
