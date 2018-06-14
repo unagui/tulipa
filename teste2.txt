@@ -3,3 +3,4 @@
  teste2 linha3
  teste2 linha4
  ben alterou arquivo diferente 2
+ ana alterou mesma linha q ben
